@@ -142,7 +142,7 @@ public class RedBlackTree<T extends Comparable<T>> extends BSTRotation<T> {
     /**
      * Tests if the Red Aunt Recolor Operation 
      * and the Black Aunt Rotate and Recolor Operation 
-     * works for a basic tree. 
+     * works for the tree laid out in Question #4 of RBTInsert Quiz. 
      */
     @Test
     public void testBlackAuntieOperation(){
