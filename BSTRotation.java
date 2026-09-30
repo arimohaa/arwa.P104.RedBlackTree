@@ -5,7 +5,7 @@
  * Assignment: P102.BSTRotation
  */
 
-public class BSTRotation<T extends Comparable<T>> extends BinarySearchTree_Placeholder<T> {
+public class BSTRotation<T extends Comparable<T>> extends BinarySearchTree<T> {
     
     /**
      * Performs the rotation operation on the provided nodes within this tree.
